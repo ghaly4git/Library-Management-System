@@ -21,5 +21,5 @@ A Spring Boot application for managing a library, including books, patrons, and 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/ghaly4git/Library-Management-System.git)
    cd library-management
